@@ -1,13 +1,12 @@
 # Problem Solving and Programming using C++
 
-As a instructor of "Problem Solving and Programming using C++" course,
-I have created step by step guide to learn programming.
-I hope any student from any major can learn programming easily by following the guides sequentially.
+As an instructor of the "Problem Solving and Programming using C++" course, I have created a step-by-step guide to learning programming.
+I hope any student from any major can learn programming quickly by following the guides sequentially.
 
 Learn and Enjoy :)
 
 Note: 
-I have used numerous resources from internet as teaching material. Mentioning some of the sources I have used to to create these materials.
+I have used numerous resources from the internet as teaching material, and I am mentioning some sources I have used to create these materials.
 
 - https://www.w3schools.com/CPP/default.asp
 - https://www.programiz.com/cpp-programming
